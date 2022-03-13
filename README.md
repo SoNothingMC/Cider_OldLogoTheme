@@ -1,10 +1,8 @@
 # Old Logo Theme
 
-This theme contains the old logos for [Cider] for those who like it better than the current one.
+A theme for [Cider], featuring the old logo because they look nice too.
 
-![Screenshot of the modified logo inside the Cider interface](docs/screenshot.png)
-
----
+![Screenshot of the modified logo inside the Cider interface](https://raw.githubusercontent.com/SoNothingMC/Cider_OldLogoTheme/main/docs/screenshot.png)
 
 ## Limitations
 
@@ -19,8 +17,6 @@ Where it does not change the logo:
 * About screen (due to forced inline CSS)
 * Outside the app (e.g. App Icons)
 
----
-
 ## (Very Slight) Differences
 
 Due to how the old/new logo is made, there are some differences on how the logo in this theme is displayed.
@@ -29,9 +25,7 @@ The old logo is made in Photoshop, while the new logo is made in Affinity Design
 
 The old logo could not be completely displayed inside Affinity's suite of products (missing bevel effects), but since Photoshop exports everything as bitmap, the effects has to go.
 
-<img src="docs/psd_af_comparison.png" alt="A comparison between the original logo and one without layer effects." width=300px>
-
----
+<img src="https://raw.githubusercontent.com/SoNothingMC/Cider_OldLogoTheme/main/docs/psd_af_comparison.png" alt="A comparison between the original logo and one without layer effects." width=300px>
 
 ## Copyright
 
