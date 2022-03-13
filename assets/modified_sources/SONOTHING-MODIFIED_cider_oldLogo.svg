@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1002 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <circle id="Ellipse-1" serif:id="Ellipse 1" cx="501" cy="500" r="479" style="fill:url(#_Linear1);"/>
+    <path id="Ellipse-2" serif:id="Ellipse 2" d="M500.5,171C681.804,171 829,318.196 829,499.5C829,680.804 681.804,828 500.5,828C319.196,828 172,680.804 172,499.5C172,318.196 319.196,171 500.5,171ZM500.5,224.47C652.293,224.47 775.53,347.707 775.53,499.5C775.53,651.293 652.293,774.53 500.5,774.53C348.707,774.53 225.47,651.293 225.47,499.5C225.47,347.707 348.707,224.47 500.5,224.47Z" style="fill:white;"/>
+    <path id="Triangle-1" serif:id="Triangle 1" d="M589.165,492.207C595.163,495.672 595.163,504.328 589.165,507.793L439.502,594.256C433.502,597.722 426,593.392 426,586.463L426,413.537C426,406.608 433.502,402.278 439.502,405.744L589.165,492.207Z" style="fill:white;fill-rule:nonzero;"/>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.5,1437,-1437,0.5,500.5,-219)"><stop offset="0" style="stop-color:rgb(255,171,150);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,15,71);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
