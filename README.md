@@ -6,7 +6,7 @@ A theme for [Cider], featuring the old logo because they look nice too.
 
 ## Limitations
 
-The theme only applies the new logo in the following place:
+The theme only applies the old logo in the following place:
 
 * Main menu button  
 ⚠ It clips the "Cider" text when you zoom in/out at 80%, 110%, 150% and 200%. I have no idea why, so just avoid those zoom levels.
