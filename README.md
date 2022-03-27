@@ -66,6 +66,6 @@ Apple Music is a trademark of Apple Inc.
 © 2021 Cider Collective, licensed under the [GPLv3].  
 
 [Cider]: https://cider.sh/
-[WTFPL]: LICENSE
+[WTFPL]: https://github.com/SoNothingMC/Cider_OldLogoTheme/blob/main/LICENSE/
 [AGPLv3]: https://github.com/ciderapp/Cider/blob/2804de5f15824ea13c6f64430f828cb665e1dfe9/LICENSE/
 [GPLv3]: https://github.com/ciderapp/Cider/blob/37e9c8276ed2cd38c6a12cb12645bb36ced4a441/LICENSE/
