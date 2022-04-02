@@ -1,10 +1,18 @@
-# Old Logo Theme
+# ❗ WARNING
+
+This theme will NOT work on Cider version 1.4.0 or above.  
+Fix coming next week.
+
+---
+---
+
+## Old Logo Theme
 
 A theme for [Cider], featuring the old logo because they look nice too.
 
 ![Screenshot of the modified logo inside the Cider interface](https://raw.githubusercontent.com/SoNothingMC/Cider_OldLogoTheme/main/docs/screenshot.png)
 
-## Limitations
+### Limitations
 
 The theme only applies the old logo in the following place:
 
@@ -17,7 +25,7 @@ Where it does not change the logo:
 * About screen (due to forced inline CSS)
 * Outside the app (e.g. App Icons)
 
-## (Very Slight) Differences
+### (Very Slight) Differences
 
 Due to how the old/new logo is made, there are some differences on how the logo in this theme is displayed.
 
@@ -27,18 +35,18 @@ The old logo could not be completely displayed inside Affinity's suite of produc
 
 <img src="https://raw.githubusercontent.com/SoNothingMC/Cider_OldLogoTheme/main/docs/psd_af_comparison.png" alt="A comparison between the original logo and one without layer effects." width=300px>
 
-## Copyright
+### Copyright
 
 There are files with different copyrights in this repository.  
 LICENSE files are included inside directories that does not fall under the root license.
 
-### `/` (root directory)
+#### `/` (root directory)
 
 * All files, except subfolders  
 *Description:* Code files for the theme.  
 © 2022 SoNothing, licensed under the [WTFPL].
 
-### `/docs/` directory
+#### `/docs/` directory
 
 * `screenshot.png`  
 *Description:* Screenshot of the Cider app.  
@@ -49,13 +57,13 @@ Apple Music is a trademark of Apple Inc.
 *Description:* Unmodified Cider logos.  
 © 2021 Cider Collective, licensed under the [GPLv3].
 
-### `/assets/modified_sources/` directory
+#### `/assets/modified_sources/` directory
 
 * All files  
 *Description:* Modified Cider logos.  
 © 2021 Cider Collective, licensed under the [GPLv3].
 
-### `/assets/sources/` directory
+#### `/assets/sources/` directory
 
 * `cider_newLogo_AppChromeBtn.afdesign`  
 *Description:* Source files for the modified logos.  
