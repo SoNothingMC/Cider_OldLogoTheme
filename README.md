@@ -1,23 +1,16 @@
-# ❗ WARNING
+# Old Logo Theme
 
-This theme will NOT work on Cider version 1.4.0 or above.  
-Fix coming next week.
+A theme for [Cider], featuring the old logo because it looks nice too.
 
----
----
-
-## Old Logo Theme
-
-A theme for [Cider], featuring the old logo because they look nice too.
+Supports Cider version 1.4 and above, and works best when combined with the style manager on Cider version 1.4.5.2188 and above.
 
 ![Screenshot of the modified logo inside the Cider interface](https://raw.githubusercontent.com/SoNothingMC/Cider_OldLogoTheme/main/docs/screenshot.png)
 
-### Limitations
+## Limitations
 
 The theme only applies the old logo in the following place:
 
 * Main menu button  
-⚠ It clips the "Cider" text when you zoom in/out at 80%, 110%, 150% and 200%. I have no idea why, so just avoid those zoom levels.
 
 Where it does not change the logo:
 
@@ -25,7 +18,7 @@ Where it does not change the logo:
 * About screen (due to forced inline CSS)
 * Outside the app (e.g. App Icons)
 
-### (Very Slight) Differences
+## (Very Slight) Differences
 
 Due to how the old/new logo is made, there are some differences on how the logo in this theme is displayed.
 
@@ -35,18 +28,18 @@ The old logo could not be completely displayed inside Affinity's suite of produc
 
 <img src="https://raw.githubusercontent.com/SoNothingMC/Cider_OldLogoTheme/main/docs/psd_af_comparison.png" alt="A comparison between the original logo and one without layer effects." width=300px>
 
-### Copyright
+## Copyright
 
 There are files with different copyrights in this repository.  
 LICENSE files are included inside directories that does not fall under the root license.
 
-#### `/` (root directory)
+### `/` (root directory)
 
 * All files, except subfolders  
 *Description:* Code files for the theme.  
 © 2022 SoNothing, licensed under the [WTFPL].
 
-#### `/docs/` directory
+### `/docs/` directory
 
 * `screenshot.png`  
 *Description:* Screenshot of the Cider app.  
@@ -57,21 +50,11 @@ Apple Music is a trademark of Apple Inc.
 *Description:* Unmodified Cider logos.  
 © 2021 Cider Collective, licensed under the [GPLv3].
 
-#### `/assets/modified_sources/` directory
+### `/assets/` directory
 
-* All files  
+* All files, subfolders and files within subfolders  
 *Description:* Modified Cider logos.  
 © 2021 Cider Collective, licensed under the [GPLv3].
-
-#### `/assets/sources/` directory
-
-* `cider_newLogo_AppChromeBtn.afdesign`  
-*Description:* Source files for the modified logos.  
-© 2022 Cider Collective, licensed under the [AGPLv3].
-
-* All other files  
-*Description:* Source files for the modified logos.  
-© 2021 Cider Collective, licensed under the [GPLv3].  
 
 [Cider]: https://cider.sh/
 [WTFPL]: https://github.com/SoNothingMC/Cider_OldLogoTheme/blob/main/LICENSE/
