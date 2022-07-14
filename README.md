@@ -1,5 +1,11 @@
 # Old Logo Theme
 
+## ⚠ End-of-Life Notice
+
+This theme is no longer being maintained.
+
+---
+
 A theme for [Cider], featuring the old logo because it looks nice too.
 
 Supports Cider version 1.4 and above, and works best when combined with the style manager on Cider version 1.4.5.2188 and above.
@@ -10,21 +16,20 @@ Supports Cider version 1.4 and above, and works best when combined with the styl
 
 The theme only applies the old logo in the following place:
 
-* Main menu button  
+* Quick navigation button
+* User profile picture (regardless of if Show Personal Information is turned on or not in Settings)
+* About screen
 
 Where it does not change the logo:
 
-* Splash Screen
-* About screen (due to forced inline CSS)
+* Splash screen
 * Outside the app (e.g. App Icons)
 
 ## (Very Slight) Differences
 
-Due to how the old/new logo is made, there are some differences on how the logo in this theme is displayed.
+The current Cider logo is a vector image, while the old one is bitmap, featuring bevel effects that cannot be exported as vector.
 
-The old logo is made in Photoshop, while the new logo is made in Affinity Designer.
-
-The old logo could not be completely displayed inside Affinity's suite of products (missing bevel effects), but since Photoshop exports everything as bitmap, the effects has to go.
+So for the theme to be compatible with Cider, the layer effects has to go.
 
 <img src="https://raw.githubusercontent.com/SoNothingMC/Cider_OldLogoTheme/main/docs/psd_af_comparison.png" alt="A comparison between the original logo and one without layer effects." width=300px>
 
